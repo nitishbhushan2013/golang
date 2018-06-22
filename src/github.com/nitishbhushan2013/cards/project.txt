@@ -1,0 +1,9 @@
+This project would deliver the cards and deck functionalities 
+
+the topmost layer is 'cards' and it has below functionalities
+    - new deck :  create list of playing cards
+    - print : print the content od deck
+    - shuffle - shffle the cards in deck    
+    - deal - create set of cards 
+    - saveFile - save the deal to file 
+    - newDeckFromCard - create list of cards  
