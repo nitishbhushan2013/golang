@@ -1,5 +1,6 @@
 package main
 
+/*
 func main() {
 	//motorList := []string{}
 	motorList := vehicleList{}
@@ -7,6 +8,6 @@ func main() {
 	motorList = append(motorList, "BMW X5")
 	motorList = append(motorList, "Audi Q7")
 
-	motorList.printVehicle()
-
+	motorList.printVehicle();
 }
+*/

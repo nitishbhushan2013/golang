@@ -9,7 +9,7 @@ func main() {
 	staticArr := []string{"one", "two", "three", "four", "five"} // its static
 
 	// adding element in dynamic array
-	sliceArr = append(sliceArr, "step1") // it does not update current slice but returns new slice
+	sliceArr = append(sliceArr, "step1", "step2") // it does not update current slice but returns new slice
 
 	fmt.Println(staticArr)
 	fmt.Println(sliceArr)
