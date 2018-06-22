@@ -18,4 +18,9 @@ func main() {
 	for i, str := range staticArr {
 		fmt.Println(i, str)
 	}
+
+	//Note : range is important as it allow the array to iterate over its element
+	// Note : is is the index and str is the current element
+	//After each iteration, go throw the index and str and thus we have :=
+	// to re-initialize with current index and str.
 }
